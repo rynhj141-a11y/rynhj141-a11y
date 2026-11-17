@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rayen 👋
 
-<!--
-**rynhj141-a11y/rynhj141-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Software Engineering student at ISI Ariana and freelance full-stack developer since 2023.
 
-Here are some ideas to get you started:
+I build web apps and work with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+**Languages:** Python, JavaScript, Java, SQL, C
+**Frontend:** React, HTML, CSS
+**Backend:** Node.js, Flask, Django, MongoDB
+**Data & AI:** pandas, scikit-learn, ETL, KNIME
+**Tools:** Git, Docker, Kubernetes
+
+## 🚀 Featured projects
+- [Project name](link) – one-line description
+- [Project name](link) – one-line description
+- [Project name](link) – one-line description
+
+## 📫 Contact
+- Email: rynhj141@gmail.com
+- LinkedIn: [rayen-hjaij](https://linkedin.com/in/rayen-hjaij-3b82a5379)
